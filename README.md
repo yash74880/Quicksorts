@@ -34,7 +34,7 @@ To install and run QuickShorts locally, follow these steps:
 
 1.  Clone the repository:
     ```sh    
-       git clone https://github.com/yash7488/Quickshorts.git
+       git clone https://github.com/yash74880/Quickshorts.git
     ```
     
 2.  Navigate to the cloned repository:
